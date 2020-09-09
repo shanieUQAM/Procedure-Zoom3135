@@ -4,7 +4,7 @@
 
 ### 1. Méthode par lien
 
- 1.1 Si ce n'est pas déja fait, créé un compte Zoom avec votre email fourni par l'uqam, trouver à la page web ci-dessous. 
+ 1.1 Si ce n'est pas déja fait, créer un compte Zoom avec votre email fourni par l'UQAM avec le lien vers la page web ci-dessous. 
 
 [https://zoom.us/signup](https://zoom.us/signup)
 
@@ -14,11 +14,11 @@
 
 ### 2. Méthode par ID
 
-2.1  Si ce n'est pas déja fait, créé un compte Zoom avec votre email fourni par l'uqam, trouver à la page web ci-dessous. 
+2.1  Si ce n'est pas déja fait, créer un compte Zoom avec votre email fourni par l'UQAM avec le lien vers la page web ci-dessous.
 
 [https://zoom.us/signup](https://zoom.us/signup)
 
-2.2 Cliquer "rejoindre réunion" et utilisés les informations suivantes.
+2.2 Dans l'application ZOOM, ou le site web, cliquer "rejoindre réunion" et utilisés les informations suivantes.
 
 <u>ID de réunion : 982 3859 3038</u>
 
