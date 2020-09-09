@@ -16,7 +16,7 @@
 
 2.1  Si ce n'est pas déja fait, créer un compte Zoom avec votre email fourni par l'UQAM avec le lien vers la page web ci-dessous.
 
-[https://zoom.us/signup](https://zoom.us/signup)
+[https://uqam.zoom.us/](https://uqam.zoom.us/)
 
 2.2 Dans l'application ZOOM, ou le site web, cliquer "rejoindre réunion" et utilisés les informations suivantes.
 
