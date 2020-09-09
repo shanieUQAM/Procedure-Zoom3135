@@ -28,10 +28,12 @@
 
 3.1 Sur votre appareil de choix, telecharger à l'aide du lien ci-dessous un rappel dans votre calendrier contenant l'heure du cours ainsi que le lien vers la réunion.
 
- [Liens pour Calendrier](https://uqam.zoom.us/meeting/tJwvdOGtpzgqGdzfMvckWGSzRXchGX6FBB5O/ics?icsToken=98tyKuCgrDgiH92WsBqPRow-AIjCWe_xmHZfjadHmjLzACtkRTDsBNpBOpVHRv7y)
+ [Lien pour Calendrier](https://uqam.zoom.us/meeting/tJwvdOGtpzgqGdzfMvckWGSzRXchGX6FBB5O/ics?icsToken=98tyKuCgrDgiH92WsBqPRow-AIjCWe_xmHZfjadHmjLzACtkRTDsBNpBOpVHRv7y)
 
 #### Attention : 
 
 Si vous n'avez pas l'application Zoom 
 
 Il est possible de l'ouvrire dans votre navigateur Web. 
+![Photo](https://github.com/shanieUQAM/Procedure-Zoom3135/blob/master/explicationZoom.jpg)
+
