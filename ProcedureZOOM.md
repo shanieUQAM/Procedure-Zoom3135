@@ -35,5 +35,6 @@
 Si vous n'avez pas l'application Zoom 
 
 Il est possible de l'ouvrire dans votre navigateur Web. 
+
 ![Photo](https://github.com/shanieUQAM/Procedure-Zoom3135/blob/master/explicationZoom.jpg)
 
