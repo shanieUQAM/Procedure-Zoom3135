@@ -2,9 +2,9 @@
 
 ###### Pour ce connecter au cours Zoom du cours INF3135 voici quelques marches à suivre méthodes possibles
 
-#### 1. Méthode par lien
+#### * Méthode par lien
 
-1.1  Si ce n'est pas déja fait, créé un compte Zoom avec votre email fourni par l'uqam, trouver à la page web ci-dessous. 
+**  Si ce n'est pas déja fait, créé un compte Zoom avec votre email fourni par l'uqam, trouver à la page web ci-dessous. 
 
 [https://zoom.us/signup](https://zoom.us/signup)
 
