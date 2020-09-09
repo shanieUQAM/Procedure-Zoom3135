@@ -16,9 +16,11 @@
 
 2.1  Si ce n'est pas déja fait, créer un compte Zoom avec votre email fourni par l'UQAM avec le lien vers la page web ci-dessous.
 
-[https://uqam.zoom.us/](https://uqam.zoom.us/)
+[https://zoom.us/signup](https://zoom.us/signup)
 
-2.2 Dans l'application ZOOM, ou le site web, cliquer "rejoindre réunion" et utilisés les informations suivantes.
+2.2 Dans l'application ZOOM, ou le site web (lien ci-dessous), cliquer "rejoindre réunion" et utilisés les informations suivantes.
+
+[https://uqam.zoom.us/](https://uqam.zoom.us/)
 
 <u>ID de réunion : 982 3859 3038</u>
 
