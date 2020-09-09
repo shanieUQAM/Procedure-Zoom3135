@@ -4,7 +4,7 @@
 
 #### * Méthode par lien
 
-**  Si ce n'est pas déja fait, créé un compte Zoom avec votre email fourni par l'uqam, trouver à la page web ci-dessous. 
+ * Si ce n'est pas déja fait, créé un compte Zoom avec votre email fourni par l'uqam, trouver à la page web ci-dessous. 
 
 [https://zoom.us/signup](https://zoom.us/signup)
 
