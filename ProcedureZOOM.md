@@ -24,8 +24,6 @@
 
 <u>ID de réunion : 982 3859 3038</u>
 
-<u>Code secret : 597316</u>
-
 ### 3. Méthode par Calendrier
 
 3.1 Sur votre appareil de choix, telecharger à l'aide du lien ci-dessous un rappel dans votre calendrier contenant l'heure du cours ainsi que le lien vers la réunion.
