@@ -1,6 +1,6 @@
 ## Procédure de connection à Zoom
 
-###### Pour ce connecter au cours Zoom du cours INF3135 voici quelques marches à suivre méthodes possibles
+###### Pour se connecter au cours Zoom du cours INF3135 voici quelques marches à suivre méthodes possibles
 
 ### 1. Méthode par lien
 
